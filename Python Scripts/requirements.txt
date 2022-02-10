@@ -4,7 +4,7 @@ Keras==2.2.4
 scipy==1.2.1
 opencv_python==4.1.0.25
 keras_metrics==1.1.0
-tensorflow==1.15.2
+tensorflow==2.5.3
 numpy==1.16.2
 Pillow==6.1.0
 scikit_learn==0.21.3
